@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mspancholi/FriendFinder.git"
+  },
+  "author": "Mukti Pancholi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mspancholi/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mspancholi/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
